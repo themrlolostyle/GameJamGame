@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9F68CF24-52EC-681D-E67C-04045CC581A4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SpiralSpawn.cs">
+    <Files>
+      <File FileName="Assets/SpiralSpawn.cs" Line="31" Column="123" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameJamGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="SpiralSpawn.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ed9b4088-7256-4b2b-83fd-f596b6f2e3dd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
